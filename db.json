@@ -85,7 +85,8 @@
                 "AdressFileName": null,
                 "IdClient": 6362922.0,
                 "IdCancelSolicitation": 0.0,
-                "TypeLocality": 1
+                "TypeLocality": 1,
+                "CodSale": 6032901
             }, {
                 "NrNFe": 1501530.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
@@ -110,7 +111,8 @@
                 "AdressFileName": null,
                 "IdClient": 6362922.0,
                 "IdCancelSolicitation": 0.0,
-                "TypeLocality": 1
+                "TypeLocality": 1,
+                "CodSale": 6032901
             },
         ]
 }
