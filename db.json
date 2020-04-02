@@ -86,7 +86,8 @@
                 "IdClient": 6362922.0,
                 "IdCancelSolicitation": 0.0,
                 "TypeLocality": 1,
-                "CodSale": 6032901
+                "CodSale": 6032901,
+                "CodCharge": 2463422.0
             }, {
                 "NrNFe": 1501530.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
@@ -112,7 +113,8 @@
                 "IdClient": 6362922.0,
                 "IdCancelSolicitation": 0.0,
                 "TypeLocality": 1,
-                "CodSale": 6032901
+                "CodSale": 6032901,
+                "CodCharge": 9675422.0
             }
         ]
 }
