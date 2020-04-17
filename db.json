@@ -62,7 +62,7 @@
   
   "Nfes": [
             {
-                "NrNFe": 1501530.0,
+                "NrNFe": 1501340.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
                 "VerificationCodeDescription": "AETGVXL5",
                 "SituationTypeNFe": "T",
@@ -89,7 +89,7 @@
                 "CodSale": 6032901,
                 "CodCharge": 2463422.0
             }, {
-                "NrNFe": 1501530.0,
+                "NrNFe": 5691530.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
                 "VerificationCodeDescription": "AETGVXL5",
                 "SituationTypeNFe": "T",
@@ -117,7 +117,7 @@
                 "CodCharge": 9675422.0
             },
                 {
-                "NrNFe": 1501530.0,
+                "NrNFe": 7392846.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
                 "VerificationCodeDescription": "AETGVXL5",
                 "SituationTypeNFe": "T",
@@ -144,7 +144,7 @@
                 "CodSale": 6032901,
                 "CodCharge": 2463422.0
             }, {
-                "NrNFe": 1501530.0,
+                "NrNFe": 39287.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
                 "VerificationCodeDescription": "AETGVXL5",
                 "SituationTypeNFe": "T",
@@ -172,7 +172,7 @@
                 "CodCharge": 9675422.0
             },
                 {
-                "NrNFe": 1501530.0,
+                "NrNFe": 627840.0,
                 "IssueDateNFe": "2013-09-26T17:15:00",
                 "VerificationCodeDescription": "AETGVXL5",
                 "SituationTypeNFe": "T",
