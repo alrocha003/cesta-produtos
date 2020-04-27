@@ -226,5 +226,26 @@
                 "CodSale": 6032901,
                 "CodCharge": 9675422.0
             }
-        ]
+        ],
+  "Origin":[
+    {
+      "Id": 0,
+      "Name": "Origem Teste"
+    },
+    
+    {
+      "Id": 1,
+      "Name": "Cartão de Crédito"
+    },
+    
+    {
+      "Id": 2,
+      "Name": "Outra Origem"
+    },
+    
+    {
+      "Id": 3,
+      "Name": "Poupança"
+    }
+  ]
 }
