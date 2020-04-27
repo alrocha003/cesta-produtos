@@ -247,5 +247,13 @@
       "Id": 3,
       "Name": "Poupança"
     }
+  ],
+  "Customers":[
+    {
+      "Id": 0,
+      "Name": "Jorge Ben Jor",
+      "Email": "benjorge@gmail.com",
+      "Cpf": "37587302875"
+    }
   ]
 }
