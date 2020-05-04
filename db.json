@@ -228,24 +228,56 @@
             }
         ],
   "Origin":[
+       {
+        "Id": 1,
+        "Description": "Análise Preventiva", 
+         "IdReason": 42
+    },
     {
-      "Id": 0,
-      "Name": "Origem Teste"
+        "Id": 2,
+        "Description": "Análise Reativa",
+        "IdReason": 42
+    },
+    {
+        "Id": 5,
+        "Description": "Denúncia",
+        "IdReason": 42
+    },
+    {
+        "Id": 6,
+        "Description": "Denúncia/Pesquisa",
+        "IdReason": 42
+    },
+    {
+        "Id": 3,
+        "Description": "Denuncie",
+        "IdReason": 42
+    },
+    {
+        "Id": 4,
+        "Description": "Denuncie/Pesquisa",
+        "IdReason": 42
     },
     
     {
-      "Id": 1,
-      "Name": "Cartão de Crédito"
+        "Id": 1,
+        "Description": "Análise Preventiva",
+        "IdReason": 47
     },
-    
     {
-      "Id": 2,
-      "Name": "Outra Origem"
+        "Id": 2,
+        "Description": "Análise Reativa",
+        "IdReason": 47
     },
-    
     {
-      "Id": 3,
-      "Name": "Poupança"
+        "Id": 5,
+        "Description": "Denúncia",
+        "IdReason": 47
+    },
+    {
+        "Id": 3,
+        "Description": "Denuncie",
+        "IdReason": 47
     }
   ],
   "Customers":[
